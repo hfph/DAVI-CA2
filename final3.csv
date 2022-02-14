@@ -1,0 +1,1387 @@
+Year,Month,Category,Fuel Type,Car Amount,Fuel Category
+2018,1,Cars,Petrol,572883,Non-Hybrid
+2018,1,Cars,Diesel,15572,Non-Hybrid
+2018,1,Cars,Petrol-Electric,20810,Hybrid
+2018,1,Cars,Petrol-Electric (Plug-In),207,Hybrid
+2018,1,Cars,Petrol-CNG,972,Non-Hybrid
+2018,1,Cars,CNG,0,Non-Hybrid
+2018,1,Cars,Electric,335,Hybrid
+2018,1,Cars,Diesel-Electric,21,Hybrid
+2018,1,Taxis,Petrol,112,Non-Hybrid
+2018,1,Taxis,Diesel,18625,Non-Hybrid
+2018,1,Taxis,Petrol-Electric,4154,Hybrid
+2018,1,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,1,Taxis,CNG,0,Non-Hybrid
+2018,1,Motor-cycles,Petrol,140771,Non-Hybrid
+2018,1,Motor-cycles,Electric,2,Hybrid
+2018,1,Goods & Other Vehicles,Petrol,4961,Non-Hybrid
+2018,1,Goods & Other Vehicles,Diesel,137439,Non-Hybrid
+2018,1,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,1,Goods & Other Vehicles,Petrol-CNG,3,Non-Hybrid
+2018,1,Goods & Other Vehicles,CNG,3,Non-Hybrid
+2018,1,Goods & Other Vehicles,Electric,31,Hybrid
+2018,1,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,1,Buses,Petrol,42,Non-Hybrid
+2018,1,Buses,Diesel,18734,Non-Hybrid
+2018,1,Buses,Petrol-CNG,1,Non-Hybrid
+2018,1,Buses,CNG,12,Non-Hybrid
+2018,1,Buses,Electric,2,Hybrid
+2018,1,Buses,Diesel-Electric,3,Hybrid
+2018,2,Cars,Petrol,573108,Non-Hybrid
+2018,2,Cars,Diesel,15658,Non-Hybrid
+2018,2,Cars,Petrol-Electric,21014,Hybrid
+2018,2,Cars,Petrol-Electric (Plug-In),211,Hybrid
+2018,2,Cars,Petrol-CNG,950,Non-Hybrid
+2018,2,Cars,CNG,0,Non-Hybrid
+2018,2,Cars,Electric,346,Hybrid
+2018,2,Cars,Diesel-Electric,21,Hybrid
+2018,2,Taxis,Petrol,110,Non-Hybrid
+2018,2,Taxis,Diesel,18181,Non-Hybrid
+2018,2,Taxis,Petrol-Electric,4149,Hybrid
+2018,2,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,2,Taxis,CNG,0,Non-Hybrid
+2018,2,Motor-cycles,Petrol,140259,Non-Hybrid
+2018,2,Motor-cycles,Electric,3,Hybrid
+2018,2,Goods & Other Vehicles,Petrol,4945,Non-Hybrid
+2018,2,Goods & Other Vehicles,Diesel,137202,Non-Hybrid
+2018,2,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,2,Goods & Other Vehicles,Petrol-CNG,3,Non-Hybrid
+2018,2,Goods & Other Vehicles,CNG,3,Non-Hybrid
+2018,2,Goods & Other Vehicles,Electric,31,Hybrid
+2018,2,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,2,Buses,Petrol,42,Non-Hybrid
+2018,2,Buses,Diesel,18726,Non-Hybrid
+2018,2,Buses,Petrol-CNG,1,Non-Hybrid
+2018,2,Buses,CNG,12,Non-Hybrid
+2018,2,Buses,Electric,2,Hybrid
+2018,2,Buses,Diesel-Electric,3,Hybrid
+2018,3,Cars,Petrol,573351,Non-Hybrid
+2018,3,Cars,Diesel,15827,Non-Hybrid
+2018,3,Cars,Petrol-Electric,21267,Hybrid
+2018,3,Cars,Petrol-Electric (Plug-In),222,Hybrid
+2018,3,Cars,Petrol-CNG,903,Non-Hybrid
+2018,3,Cars,CNG,0,Non-Hybrid
+2018,3,Cars,Electric,348,Hybrid
+2018,3,Cars,Diesel-Electric,21,Hybrid
+2018,3,Taxis,Petrol,106,Non-Hybrid
+2018,3,Taxis,Diesel,17494,Non-Hybrid
+2018,3,Taxis,Petrol-Electric,4146,Hybrid
+2018,3,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,3,Taxis,CNG,0,Non-Hybrid
+2018,3,Motor-cycles,Petrol,139675,Non-Hybrid
+2018,3,Motor-cycles,Electric,3,Hybrid
+2018,3,Goods & Other Vehicles,Petrol,4921,Non-Hybrid
+2018,3,Goods & Other Vehicles,Diesel,136857,Non-Hybrid
+2018,3,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,3,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,3,Goods & Other Vehicles,CNG,3,Non-Hybrid
+2018,3,Goods & Other Vehicles,Electric,31,Hybrid
+2018,3,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,3,Buses,Petrol,42,Non-Hybrid
+2018,3,Buses,Diesel,18698,Non-Hybrid
+2018,3,Buses,Petrol-CNG,1,Non-Hybrid
+2018,3,Buses,CNG,12,Non-Hybrid
+2018,3,Buses,Electric,2,Hybrid
+2018,3,Buses,Diesel-Electric,3,Hybrid
+2018,4,Cars,Petrol,573152,Non-Hybrid
+2018,4,Cars,Diesel,16077,Non-Hybrid
+2018,4,Cars,Petrol-Electric,21820,Hybrid
+2018,4,Cars,Petrol-Electric (Plug-In),232,Hybrid
+2018,4,Cars,Petrol-CNG,848,Non-Hybrid
+2018,4,Cars,CNG,0,Non-Hybrid
+2018,4,Cars,Electric,353,Hybrid
+2018,4,Cars,Diesel-Electric,21,Hybrid
+2018,4,Taxis,Petrol,101,Non-Hybrid
+2018,4,Taxis,Diesel,17196,Non-Hybrid
+2018,4,Taxis,Petrol-Electric,4139,Hybrid
+2018,4,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,4,Taxis,CNG,0,Non-Hybrid
+2018,4,Motor-cycles,Petrol,139188,Non-Hybrid
+2018,4,Motor-cycles,Electric,3,Hybrid
+2018,4,Goods & Other Vehicles,Petrol,4907,Non-Hybrid
+2018,4,Goods & Other Vehicles,Diesel,136750,Non-Hybrid
+2018,4,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,4,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,4,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,4,Goods & Other Vehicles,Electric,31,Hybrid
+2018,4,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,4,Buses,Petrol,40,Non-Hybrid
+2018,4,Buses,Diesel,18686,Non-Hybrid
+2018,4,Buses,Petrol-CNG,1,Non-Hybrid
+2018,4,Buses,CNG,12,Non-Hybrid
+2018,4,Buses,Electric,2,Hybrid
+2018,4,Buses,Diesel-Electric,3,Hybrid
+2018,5,Cars,Petrol,573322,Non-Hybrid
+2018,5,Cars,Diesel,16237,Non-Hybrid
+2018,5,Cars,Petrol-Electric,22449,Hybrid
+2018,5,Cars,Petrol-Electric (Plug-In),238,Hybrid
+2018,5,Cars,Petrol-CNG,762,Non-Hybrid
+2018,5,Cars,CNG,0,Non-Hybrid
+2018,5,Cars,Electric,354,Hybrid
+2018,5,Cars,Diesel-Electric,21,Hybrid
+2018,5,Taxis,Petrol,98,Non-Hybrid
+2018,5,Taxis,Diesel,16999,Non-Hybrid
+2018,5,Taxis,Petrol-Electric,4140,Hybrid
+2018,5,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,5,Taxis,CNG,0,Non-Hybrid
+2018,5,Motor-cycles,Petrol,138178,Non-Hybrid
+2018,5,Motor-cycles,Electric,3,Hybrid
+2018,5,Goods & Other Vehicles,Petrol,4895,Non-Hybrid
+2018,5,Goods & Other Vehicles,Diesel,136628,Non-Hybrid
+2018,5,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,5,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,5,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,5,Goods & Other Vehicles,Electric,31,Hybrid
+2018,5,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,5,Buses,Petrol,39,Non-Hybrid
+2018,5,Buses,Diesel,18703,Non-Hybrid
+2018,5,Buses,Petrol-CNG,1,Non-Hybrid
+2018,5,Buses,CNG,12,Non-Hybrid
+2018,5,Buses,Electric,2,Hybrid
+2018,5,Buses,Diesel-Electric,3,Hybrid
+2018,6,Cars,Petrol,575441,Non-Hybrid
+2018,6,Cars,Diesel,16555,Non-Hybrid
+2018,6,Cars,Petrol-Electric,23941,Hybrid
+2018,6,Cars,Petrol-Electric (Plug-In),270,Hybrid
+2018,6,Cars,Petrol-CNG,671,Non-Hybrid
+2018,6,Cars,CNG,0,Non-Hybrid
+2018,6,Cars,Electric,358,Hybrid
+2018,6,Cars,Diesel-Electric,21,Hybrid
+2018,6,Taxis,Petrol,95,Non-Hybrid
+2018,6,Taxis,Diesel,16910,Non-Hybrid
+2018,6,Taxis,Petrol-Electric,4159,Hybrid
+2018,6,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,6,Taxis,CNG,0,Non-Hybrid
+2018,6,Motor-cycles,Petrol,137441,Non-Hybrid
+2018,6,Motor-cycles,Electric,3,Hybrid
+2018,6,Goods & Other Vehicles,Petrol,4892,Non-Hybrid
+2018,6,Goods & Other Vehicles,Diesel,136644,Non-Hybrid
+2018,6,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,6,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,6,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,6,Goods & Other Vehicles,Electric,31,Hybrid
+2018,6,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,6,Buses,Petrol,38,Non-Hybrid
+2018,6,Buses,Diesel,18728,Non-Hybrid
+2018,6,Buses,Petrol-CNG,1,Non-Hybrid
+2018,6,Buses,CNG,12,Non-Hybrid
+2018,6,Buses,Electric,3,Hybrid
+2018,6,Buses,Diesel-Electric,3,Hybrid
+2018,7,Cars,Petrol,573064,Non-Hybrid
+2018,7,Cars,Diesel,16843,Non-Hybrid
+2018,7,Cars,Petrol-Electric,24229,Hybrid
+2018,7,Cars,Petrol-Electric (Plug-In),284,Hybrid
+2018,7,Cars,Petrol-CNG,590,Non-Hybrid
+2018,7,Cars,CNG,0,Non-Hybrid
+2018,7,Cars,Electric,363,Hybrid
+2018,7,Cars,Diesel-Electric,21,Hybrid
+2018,7,Taxis,Petrol,88,Non-Hybrid
+2018,7,Taxis,Diesel,16802,Non-Hybrid
+2018,7,Taxis,Petrol-Electric,4284,Hybrid
+2018,7,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,7,Taxis,CNG,0,Non-Hybrid
+2018,7,Taxis,Electric,2,Hybrid
+2018,7,Motor-cycles,Petrol,137001,Non-Hybrid
+2018,7,Motor-cycles,Electric,3,Hybrid
+2018,7,Goods & Other Vehicles,Petrol,4877,Non-Hybrid
+2018,7,Goods & Other Vehicles,Diesel,136450,Non-Hybrid
+2018,7,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,7,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,7,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,7,Goods & Other Vehicles,Electric,31,Hybrid
+2018,7,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,7,Buses,Petrol,34,Non-Hybrid
+2018,7,Buses,Diesel,18758,Non-Hybrid
+2018,7,Buses,Petrol-CNG,1,Non-Hybrid
+2018,7,Buses,CNG,12,Non-Hybrid
+2018,7,Buses,Electric,4,Hybrid
+2018,7,Buses,Diesel-Electric,3,Hybrid
+2018,8,Cars,Petrol,571787,Non-Hybrid
+2018,8,Cars,Diesel,16920,Non-Hybrid
+2018,8,Cars,Petrol-Electric,24624,Hybrid
+2018,8,Cars,Petrol-Electric (Plug-In),297,Hybrid
+2018,8,Cars,Petrol-CNG,521,Non-Hybrid
+2018,8,Cars,CNG,0,Non-Hybrid
+2018,8,Cars,Electric,406,Hybrid
+2018,8,Cars,Diesel-Electric,21,Hybrid
+2018,8,Taxis,Petrol,82,Non-Hybrid
+2018,8,Taxis,Diesel,16716,Non-Hybrid
+2018,8,Taxis,Petrol-Electric,4471,Hybrid
+2018,8,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,8,Taxis,CNG,0,Non-Hybrid
+2018,8,Taxis,Electric,97,Hybrid
+2018,8,Motor-cycles,Petrol,136652,Non-Hybrid
+2018,8,Motor-cycles,Electric,2,Hybrid
+2018,8,Goods & Other Vehicles,Petrol,4866,Non-Hybrid
+2018,8,Goods & Other Vehicles,Diesel,136336,Non-Hybrid
+2018,8,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,8,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,8,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,8,Goods & Other Vehicles,Electric,38,Hybrid
+2018,8,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,8,Buses,Petrol,34,Non-Hybrid
+2018,8,Buses,Diesel,18790,Non-Hybrid
+2018,8,Buses,Petrol-CNG,0,Non-Hybrid
+2018,8,Buses,CNG,12,Non-Hybrid
+2018,8,Buses,Electric,4,Hybrid
+2018,8,Buses,Diesel-Electric,3,Hybrid
+2018,9,Cars,Petrol,570828,Non-Hybrid
+2018,9,Cars,Diesel,17019,Non-Hybrid
+2018,9,Cars,Petrol-Electric,25183,Hybrid
+2018,9,Cars,Petrol-Electric (Plug-In),323,Hybrid
+2018,9,Cars,Petrol-CNG,475,Non-Hybrid
+2018,9,Cars,CNG,0,Non-Hybrid
+2018,9,Cars,Electric,443,Hybrid
+2018,9,Cars,Diesel-Electric,21,Hybrid
+2018,9,Taxis,Petrol,69,Non-Hybrid
+2018,9,Taxis,Diesel,16531,Non-Hybrid
+2018,9,Taxis,Petrol-Electric,4582,Hybrid
+2018,9,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,9,Taxis,CNG,0,Non-Hybrid
+2018,9,Taxis,Electric,97,Hybrid
+2018,9,Motor-cycles,Petrol,136586,Non-Hybrid
+2018,9,Motor-cycles,Electric,2,Hybrid
+2018,9,Goods & Other Vehicles,Petrol,4841,Non-Hybrid
+2018,9,Goods & Other Vehicles,Diesel,136401,Non-Hybrid
+2018,9,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,9,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,9,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,9,Goods & Other Vehicles,Electric,38,Hybrid
+2018,9,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,9,Buses,Petrol,34,Non-Hybrid
+2018,9,Buses,Diesel,18805,Non-Hybrid
+2018,9,Buses,Petrol-CNG,0,Non-Hybrid
+2018,9,Buses,CNG,12,Non-Hybrid
+2018,9,Buses,Electric,4,Hybrid
+2018,9,Buses,Diesel-Electric,3,Hybrid
+2018,10,Cars,Petrol,570486,Non-Hybrid
+2018,10,Cars,Diesel,17061,Non-Hybrid
+2018,10,Cars,Petrol-Electric,25943,Hybrid
+2018,10,Cars,Petrol-Electric (Plug-In),336,Hybrid
+2018,10,Cars,Petrol-CNG,431,Non-Hybrid
+2018,10,Cars,CNG,0,Non-Hybrid
+2018,10,Cars,Electric,462,Hybrid
+2018,10,Cars,Diesel-Electric,21,Hybrid
+2018,10,Taxis,Petrol,65,Non-Hybrid
+2018,10,Taxis,Diesel,16162,Non-Hybrid
+2018,10,Taxis,Petrol-Electric,4744,Hybrid
+2018,10,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,10,Taxis,CNG,0,Non-Hybrid
+2018,10,Taxis,Electric,102,Hybrid
+2018,10,Motor-cycles,Petrol,136377,Non-Hybrid
+2018,10,Motor-cycles,Electric,2,Hybrid
+2018,10,Goods & Other Vehicles,Petrol,4838,Non-Hybrid
+2018,10,Goods & Other Vehicles,Diesel,136474,Non-Hybrid
+2018,10,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,10,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,10,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2018,10,Goods & Other Vehicles,Electric,39,Hybrid
+2018,10,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,10,Buses,Petrol,34,Non-Hybrid
+2018,10,Buses,Diesel,18819,Non-Hybrid
+2018,10,Buses,Petrol-CNG,0,Non-Hybrid
+2018,10,Buses,CNG,12,Non-Hybrid
+2018,10,Buses,Electric,4,Hybrid
+2018,10,Buses,Diesel-Electric,3,Hybrid
+2018,11,Cars,Petrol,570086,Non-Hybrid
+2018,11,Cars,Diesel,17135,Non-Hybrid
+2018,11,Cars,Petrol-Electric,26468,Hybrid
+2018,11,Cars,Petrol-Electric (Plug-In),357,Hybrid
+2018,11,Cars,Petrol-CNG,404,Non-Hybrid
+2018,11,Cars,CNG,0,Non-Hybrid
+2018,11,Cars,Electric,466,Hybrid
+2018,11,Cars,Diesel-Electric,21,Hybrid
+2018,11,Taxis,Petrol,58,Non-Hybrid
+2018,11,Taxis,Diesel,15724,Non-Hybrid
+2018,11,Taxis,Petrol-Electric,5001,Hybrid
+2018,11,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,11,Taxis,CNG,0,Non-Hybrid
+2018,11,Taxis,Electric,102,Hybrid
+2018,11,Motor-cycles,Petrol,136657,Non-Hybrid
+2018,11,Motor-cycles,Electric,2,Hybrid
+2018,11,Goods & Other Vehicles,Petrol,4859,Non-Hybrid
+2018,11,Goods & Other Vehicles,Diesel,136409,Non-Hybrid
+2018,11,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,11,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,11,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2018,11,Goods & Other Vehicles,Electric,39,Hybrid
+2018,11,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,11,Buses,Petrol,34,Non-Hybrid
+2018,11,Buses,Diesel,18853,Non-Hybrid
+2018,11,Buses,Petrol-CNG,0,Non-Hybrid
+2018,11,Buses,CNG,12,Non-Hybrid
+2018,11,Buses,Electric,4,Hybrid
+2018,11,Buses,Diesel-Electric,17,Hybrid
+2018,12,Cars,Petrol,569673,Non-Hybrid
+2018,12,Cars,Diesel,17253,Non-Hybrid
+2018,12,Cars,Petrol-Electric,27179,Hybrid
+2018,12,Cars,Petrol-Electric (Plug-In),380,Hybrid
+2018,12,Cars,Petrol-CNG,386,Non-Hybrid
+2018,12,Cars,CNG,0,Non-Hybrid
+2018,12,Cars,Electric,560,Hybrid
+2018,12,Cars,Diesel-Electric,21,Hybrid
+2018,12,Taxis,Petrol,53,Non-Hybrid
+2018,12,Taxis,Diesel,15089,Non-Hybrid
+2018,12,Taxis,Petrol-Electric,5337,Hybrid
+2018,12,Taxis,Petrol-CNG,0,Non-Hybrid
+2018,12,Taxis,CNG,0,Non-Hybrid
+2018,12,Taxis,Electric,102,Hybrid
+2018,12,Motor-cycles,Petrol,136840,Non-Hybrid
+2018,12,Motor-cycles,Electric,2,Hybrid
+2018,12,Goods & Other Vehicles,Petrol,4879,Non-Hybrid
+2018,12,Goods & Other Vehicles,Diesel,136478,Non-Hybrid
+2018,12,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2018,12,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2018,12,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2018,12,Goods & Other Vehicles,Electric,39,Hybrid
+2018,12,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2018,12,Buses,Petrol,33,Non-Hybrid
+2018,12,Buses,Diesel,18875,Non-Hybrid
+2018,12,Buses,Petrol-CNG,0,Non-Hybrid
+2018,12,Buses,CNG,12,Non-Hybrid
+2018,12,Buses,Electric,4,Hybrid
+2018,12,Buses,Diesel-Electric,23,Hybrid
+2019,1,Cars,Petrol,570742,Non-Hybrid
+2019,1,Cars,Diesel,17323,Non-Hybrid
+2019,1,Cars,Petrol-Electric,28222,Hybrid
+2019,1,Cars,Petrol-Electric (Plug-In),393,Hybrid
+2019,1,Cars,Petrol-CNG,369,Non-Hybrid
+2019,1,Cars,CNG,0,Non-Hybrid
+2019,1,Cars,Electric,650,Hybrid
+2019,1,Cars,Diesel-Electric,21,Hybrid
+2019,1,Taxis,Petrol,44,Non-Hybrid
+2019,1,Taxis,Diesel,14674,Non-Hybrid
+2019,1,Taxis,Petrol-Electric,5553,Hybrid
+2019,1,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,1,Taxis,CNG,0,Non-Hybrid
+2019,1,Taxis,Electric,104,Hybrid
+2019,1,Motor-cycles,Petrol,137091,Non-Hybrid
+2019,1,Motor-cycles,Electric,2,Hybrid
+2019,1,Goods & Other Vehicles,Petrol,4880,Non-Hybrid
+2019,1,Goods & Other Vehicles,Diesel,136565,Non-Hybrid
+2019,1,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,1,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2019,1,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,1,Goods & Other Vehicles,Electric,40,Hybrid
+2019,1,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,1,Buses,Petrol,32,Non-Hybrid
+2019,1,Buses,Diesel,18918,Non-Hybrid
+2019,1,Buses,Petrol-CNG,0,Non-Hybrid
+2019,1,Buses,CNG,8,Non-Hybrid
+2019,1,Buses,Electric,4,Hybrid
+2019,1,Buses,Diesel-Electric,34,Hybrid
+2019,2,Cars,Petrol,570512,Non-Hybrid
+2019,2,Cars,Diesel,17354,Non-Hybrid
+2019,2,Cars,Petrol-Electric,28679,Hybrid
+2019,2,Cars,Petrol-Electric (Plug-In),397,Hybrid
+2019,2,Cars,Petrol-CNG,356,Non-Hybrid
+2019,2,Cars,CNG,0,Non-Hybrid
+2019,2,Cars,Electric,676,Hybrid
+2019,2,Cars,Diesel-Electric,20,Hybrid
+2019,2,Taxis,Petrol,41,Non-Hybrid
+2019,2,Taxis,Diesel,14454,Non-Hybrid
+2019,2,Taxis,Petrol-Electric,5646,Hybrid
+2019,2,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,2,Taxis,CNG,0,Non-Hybrid
+2019,2,Taxis,Electric,115,Hybrid
+2019,2,Motor-cycles,Petrol,137165,Non-Hybrid
+2019,2,Motor-cycles,Electric,2,Hybrid
+2019,2,Goods & Other Vehicles,Petrol,4857,Non-Hybrid
+2019,2,Goods & Other Vehicles,Diesel,136457,Non-Hybrid
+2019,2,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,2,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2019,2,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,2,Goods & Other Vehicles,Electric,40,Hybrid
+2019,2,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,2,Buses,Petrol,30,Non-Hybrid
+2019,2,Buses,Diesel,18912,Non-Hybrid
+2019,2,Buses,Petrol-CNG,0,Non-Hybrid
+2019,2,Buses,CNG,8,Non-Hybrid
+2019,2,Buses,Electric,4,Hybrid
+2019,2,Buses,Diesel-Electric,43,Hybrid
+2019,3,Cars,Petrol,570609,Non-Hybrid
+2019,3,Cars,Diesel,17422,Non-Hybrid
+2019,3,Cars,Petrol-Electric,29354,Hybrid
+2019,3,Cars,Petrol-Electric (Plug-In),406,Hybrid
+2019,3,Cars,Petrol-CNG,342,Non-Hybrid
+2019,3,Cars,CNG,0,Non-Hybrid
+2019,3,Cars,Electric,694,Hybrid
+2019,3,Cars,Diesel-Electric,19,Hybrid
+2019,3,Taxis,Petrol,38,Non-Hybrid
+2019,3,Taxis,Diesel,14048,Non-Hybrid
+2019,3,Taxis,Petrol-Electric,5848,Hybrid
+2019,3,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,3,Taxis,CNG,0,Non-Hybrid
+2019,3,Taxis,Electric,127,Hybrid
+2019,3,Motor-cycles,Petrol,137270,Non-Hybrid
+2019,3,Motor-cycles,Electric,2,Hybrid
+2019,3,Goods & Other Vehicles,Petrol,4799,Non-Hybrid
+2019,3,Goods & Other Vehicles,Diesel,136023,Non-Hybrid
+2019,3,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,3,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2019,3,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,3,Goods & Other Vehicles,Electric,42,Hybrid
+2019,3,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,3,Buses,Petrol,29,Non-Hybrid
+2019,3,Buses,Diesel,18936,Non-Hybrid
+2019,3,Buses,Petrol-CNG,0,Non-Hybrid
+2019,3,Buses,CNG,8,Non-Hybrid
+2019,3,Buses,Electric,5,Hybrid
+2019,3,Buses,Diesel-Electric,53,Hybrid
+2019,4,Cars,Petrol,572114,Non-Hybrid
+2019,4,Cars,Diesel,17534,Non-Hybrid
+2019,4,Cars,Petrol-Electric,29931,Hybrid
+2019,4,Cars,Petrol-Electric (Plug-In),410,Hybrid
+2019,4,Cars,Petrol-CNG,331,Non-Hybrid
+2019,4,Cars,CNG,0,Non-Hybrid
+2019,4,Cars,Electric,729,Hybrid
+2019,4,Cars,Diesel-Electric,19,Hybrid
+2019,4,Taxis,Petrol,31,Non-Hybrid
+2019,4,Taxis,Diesel,13594,Non-Hybrid
+2019,4,Taxis,Petrol-Electric,6169,Hybrid
+2019,4,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,4,Taxis,CNG,0,Non-Hybrid
+2019,4,Taxis,Electric,133,Hybrid
+2019,4,Motor-cycles,Petrol,137481,Non-Hybrid
+2019,4,Motor-cycles,Electric,2,Hybrid
+2019,4,Goods & Other Vehicles,Petrol,4795,Non-Hybrid
+2019,4,Goods & Other Vehicles,Diesel,136126,Non-Hybrid
+2019,4,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,4,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2019,4,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,4,Goods & Other Vehicles,Electric,43,Hybrid
+2019,4,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,4,Buses,Petrol,28,Non-Hybrid
+2019,4,Buses,Diesel,19073,Non-Hybrid
+2019,4,Buses,Petrol-CNG,0,Non-Hybrid
+2019,4,Buses,CNG,7,Non-Hybrid
+2019,4,Buses,Electric,5,Hybrid
+2019,4,Buses,Diesel-Electric,52,Hybrid
+2019,5,Cars,Petrol,573110,Non-Hybrid
+2019,5,Cars,Diesel,17642,Non-Hybrid
+2019,5,Cars,Petrol-Electric,30485,Hybrid
+2019,5,Cars,Petrol-Electric (Plug-In),417,Hybrid
+2019,5,Cars,Petrol-CNG,319,Non-Hybrid
+2019,5,Cars,CNG,0,Non-Hybrid
+2019,5,Cars,Electric,796,Hybrid
+2019,5,Cars,Diesel-Electric,19,Hybrid
+2019,5,Taxis,Petrol,27,Non-Hybrid
+2019,5,Taxis,Diesel,13083,Non-Hybrid
+2019,5,Taxis,Petrol-Electric,6508,Hybrid
+2019,5,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,5,Taxis,CNG,0,Non-Hybrid
+2019,5,Taxis,Electric,133,Hybrid
+2019,5,Motor-cycles,Petrol,137748,Non-Hybrid
+2019,5,Motor-cycles,Electric,2,Hybrid
+2019,5,Goods & Other Vehicles,Petrol,4823,Non-Hybrid
+2019,5,Goods & Other Vehicles,Diesel,135963,Non-Hybrid
+2019,5,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,5,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2019,5,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,5,Goods & Other Vehicles,Electric,43,Hybrid
+2019,5,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,5,Buses,Petrol,26,Non-Hybrid
+2019,5,Buses,Diesel,19081,Non-Hybrid
+2019,5,Buses,Petrol-CNG,0,Non-Hybrid
+2019,5,Buses,CNG,7,Non-Hybrid
+2019,5,Buses,Electric,5,Hybrid
+2019,5,Buses,Diesel-Electric,52,Hybrid
+2019,6,Cars,Petrol,574260,Non-Hybrid
+2019,6,Cars,Diesel,17719,Non-Hybrid
+2019,6,Cars,Petrol-Electric,31117,Hybrid
+2019,6,Cars,Petrol-Electric (Plug-In),429,Hybrid
+2019,6,Cars,Petrol-CNG,299,Non-Hybrid
+2019,6,Cars,CNG,0,Non-Hybrid
+2019,6,Cars,Electric,832,Hybrid
+2019,6,Cars,Diesel-Electric,20,Hybrid
+2019,6,Taxis,Petrol,26,Non-Hybrid
+2019,6,Taxis,Diesel,12622,Non-Hybrid
+2019,6,Taxis,Petrol-Electric,6697,Hybrid
+2019,6,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,6,Taxis,CNG,0,Non-Hybrid
+2019,6,Taxis,Electric,133,Hybrid
+2019,6,Motor-cycles,Petrol,138269,Non-Hybrid
+2019,6,Motor-cycles,Electric,2,Hybrid
+2019,6,Goods & Other Vehicles,Petrol,4877,Non-Hybrid
+2019,6,Goods & Other Vehicles,Diesel,135961,Non-Hybrid
+2019,6,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,6,Goods & Other Vehicles,Petrol-CNG,2,Non-Hybrid
+2019,6,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,6,Goods & Other Vehicles,Electric,43,Hybrid
+2019,6,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,6,Buses,Petrol,25,Non-Hybrid
+2019,6,Buses,Diesel,19104,Non-Hybrid
+2019,6,Buses,Petrol-CNG,0,Non-Hybrid
+2019,6,Buses,CNG,7,Non-Hybrid
+2019,6,Buses,Electric,5,Hybrid
+2019,6,Buses,Diesel-Electric,50,Hybrid
+2019,7,Cars,Petrol,575210,Non-Hybrid
+2019,7,Cars,Diesel,17800,Non-Hybrid
+2019,7,Cars,Petrol-Electric,32043,Hybrid
+2019,7,Cars,Petrol-Electric (Plug-In),439,Hybrid
+2019,7,Cars,Petrol-CNG,284,Non-Hybrid
+2019,7,Cars,CNG,0,Non-Hybrid
+2019,7,Cars,Electric,901,Hybrid
+2019,7,Cars,Diesel-Electric,20,Hybrid
+2019,7,Taxis,Petrol,26,Non-Hybrid
+2019,7,Taxis,Diesel,11926,Non-Hybrid
+2019,7,Taxis,Petrol-Electric,6985,Hybrid
+2019,7,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,7,Taxis,CNG,0,Non-Hybrid
+2019,7,Taxis,Electric,133,Hybrid
+2019,7,Motor-cycles,Petrol,138808,Non-Hybrid
+2019,7,Motor-cycles,Electric,2,Hybrid
+2019,7,Goods & Other Vehicles,Petrol,4912,Non-Hybrid
+2019,7,Goods & Other Vehicles,Diesel,135936,Non-Hybrid
+2019,7,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,7,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2019,7,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,7,Goods & Other Vehicles,Electric,52,Hybrid
+2019,7,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,7,Buses,Petrol,23,Non-Hybrid
+2019,7,Buses,Diesel,19131,Non-Hybrid
+2019,7,Buses,Petrol-CNG,0,Non-Hybrid
+2019,7,Buses,CNG,6,Non-Hybrid
+2019,7,Buses,Electric,5,Hybrid
+2019,7,Buses,Diesel-Electric,50,Hybrid
+2019,8,Cars,Petrol,575132,Non-Hybrid
+2019,8,Cars,Diesel,17858,Non-Hybrid
+2019,8,Cars,Petrol-Electric,32800,Hybrid
+2019,8,Cars,Petrol-Electric (Plug-In),446,Hybrid
+2019,8,Cars,Petrol-CNG,278,Non-Hybrid
+2019,8,Cars,CNG,0,Non-Hybrid
+2019,8,Cars,Electric,962,Hybrid
+2019,8,Cars,Diesel-Electric,20,Hybrid
+2019,8,Taxis,Petrol,25,Non-Hybrid
+2019,8,Taxis,Diesel,11618,Non-Hybrid
+2019,8,Taxis,Petrol-Electric,7213,Hybrid
+2019,8,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,8,Taxis,CNG,0,Non-Hybrid
+2019,8,Taxis,Electric,133,Hybrid
+2019,8,Motor-cycles,Petrol,139094,Non-Hybrid
+2019,8,Motor-cycles,Electric,2,Hybrid
+2019,8,Goods & Other Vehicles,Petrol,4946,Non-Hybrid
+2019,8,Goods & Other Vehicles,Diesel,135996,Non-Hybrid
+2019,8,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,8,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2019,8,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,8,Goods & Other Vehicles,Electric,57,Hybrid
+2019,8,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,8,Buses,Petrol,23,Non-Hybrid
+2019,8,Buses,Diesel,19168,Non-Hybrid
+2019,8,Buses,Petrol-CNG,0,Non-Hybrid
+2019,8,Buses,CNG,6,Non-Hybrid
+2019,8,Buses,Electric,5,Hybrid
+2019,8,Buses,Diesel-Electric,50,Hybrid
+2019,9,Cars,Petrol,575493,Non-Hybrid
+2019,9,Cars,Diesel,17928,Non-Hybrid
+2019,9,Cars,Petrol-Electric,33620,Hybrid
+2019,9,Cars,Petrol-Electric (Plug-In),447,Hybrid
+2019,9,Cars,Petrol-CNG,273,Non-Hybrid
+2019,9,Cars,CNG,0,Non-Hybrid
+2019,9,Cars,Electric,1036,Hybrid
+2019,9,Cars,Diesel-Electric,19,Hybrid
+2019,9,Taxis,Petrol,25,Non-Hybrid
+2019,9,Taxis,Diesel,11355,Non-Hybrid
+2019,9,Taxis,Petrol-Electric,7259,Hybrid
+2019,9,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,9,Taxis,CNG,0,Non-Hybrid
+2019,9,Taxis,Electric,133,Hybrid
+2019,9,Motor-cycles,Petrol,139246,Non-Hybrid
+2019,9,Motor-cycles,Electric,2,Hybrid
+2019,9,Goods & Other Vehicles,Petrol,4990,Non-Hybrid
+2019,9,Goods & Other Vehicles,Diesel,136035,Non-Hybrid
+2019,9,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,9,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2019,9,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,9,Goods & Other Vehicles,Electric,57,Hybrid
+2019,9,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,9,Buses,Petrol,21,Non-Hybrid
+2019,9,Buses,Diesel,19182,Non-Hybrid
+2019,9,Buses,Petrol-CNG,0,Non-Hybrid
+2019,9,Buses,CNG,0,Non-Hybrid
+2019,9,Buses,Electric,6,Hybrid
+2019,9,Buses,Diesel-Electric,50,Hybrid
+2019,10,Cars,Petrol,575371,Non-Hybrid
+2019,10,Cars,Diesel,17957,Non-Hybrid
+2019,10,Cars,Petrol-Electric,34333,Hybrid
+2019,10,Cars,Petrol-Electric (Plug-In),457,Hybrid
+2019,10,Cars,Petrol-CNG,264,Non-Hybrid
+2019,10,Cars,CNG,0,Non-Hybrid
+2019,10,Cars,Electric,1109,Hybrid
+2019,10,Cars,Diesel-Electric,19,Hybrid
+2019,10,Taxis,Petrol,25,Non-Hybrid
+2019,10,Taxis,Diesel,11022,Non-Hybrid
+2019,10,Taxis,Petrol-Electric,7710,Hybrid
+2019,10,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,10,Taxis,CNG,0,Non-Hybrid
+2019,10,Taxis,Electric,133,Hybrid
+2019,10,Motor-cycles,Petrol,139320,Non-Hybrid
+2019,10,Motor-cycles,Electric,2,Hybrid
+2019,10,Goods & Other Vehicles,Petrol,5029,Non-Hybrid
+2019,10,Goods & Other Vehicles,Diesel,135980,Non-Hybrid
+2019,10,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,10,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2019,10,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,10,Goods & Other Vehicles,Electric,58,Hybrid
+2019,10,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,10,Buses,Petrol,19,Non-Hybrid
+2019,10,Buses,Diesel,19191,Non-Hybrid
+2019,10,Buses,Petrol-CNG,0,Non-Hybrid
+2019,10,Buses,CNG,0,Non-Hybrid
+2019,10,Buses,Electric,8,Hybrid
+2019,10,Buses,Diesel-Electric,50,Hybrid
+2019,11,Cars,Petrol,575432,Non-Hybrid
+2019,11,Cars,Diesel,18013,Non-Hybrid
+2019,11,Cars,Petrol-Electric,35013,Hybrid
+2019,11,Cars,Petrol-Electric (Plug-In),462,Hybrid
+2019,11,Cars,Petrol-CNG,256,Non-Hybrid
+2019,11,Cars,CNG,0,Non-Hybrid
+2019,11,Cars,Electric,1112,Hybrid
+2019,11,Cars,Diesel-Electric,19,Hybrid
+2019,11,Taxis,Petrol,25,Non-Hybrid
+2019,11,Taxis,Diesel,10563,Non-Hybrid
+2019,11,Taxis,Petrol-Electric,8067,Hybrid
+2019,11,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,11,Taxis,CNG,0,Non-Hybrid
+2019,11,Taxis,Electric,133,Hybrid
+2019,11,Motor-cycles,Petrol,139618,Non-Hybrid
+2019,11,Motor-cycles,Electric,2,Hybrid
+2019,11,Goods & Other Vehicles,Petrol,5086,Non-Hybrid
+2019,11,Goods & Other Vehicles,Diesel,135851,Non-Hybrid
+2019,11,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,11,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2019,11,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,11,Goods & Other Vehicles,Electric,69,Hybrid
+2019,11,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,11,Buses,Petrol,19,Non-Hybrid
+2019,11,Buses,Diesel,19223,Non-Hybrid
+2019,11,Buses,Petrol-CNG,0,Non-Hybrid
+2019,11,Buses,CNG,0,Non-Hybrid
+2019,11,Buses,Electric,10,Hybrid
+2019,11,Buses,Diesel-Electric,50,Hybrid
+2019,12,Cars,Petrol,574967,Non-Hybrid
+2019,12,Cars,Diesel,18049,Non-Hybrid
+2019,12,Cars,Petrol-Electric,35718,Hybrid
+2019,12,Cars,Petrol-Electric (Plug-In),473,Hybrid
+2019,12,Cars,Petrol-CNG,250,Non-Hybrid
+2019,12,Cars,CNG,0,Non-Hybrid
+2019,12,Cars,Electric,1120,Hybrid
+2019,12,Cars,Diesel-Electric,19,Hybrid
+2019,12,Taxis,Petrol,24,Non-Hybrid
+2019,12,Taxis,Diesel,9759,Non-Hybrid
+2019,12,Taxis,Petrol-Electric,8626,Hybrid
+2019,12,Taxis,Petrol-CNG,0,Non-Hybrid
+2019,12,Taxis,CNG,0,Non-Hybrid
+2019,12,Taxis,Electric,133,Hybrid
+2019,12,Motor-cycles,Petrol,140396,Non-Hybrid
+2019,12,Motor-cycles,Electric,2,Hybrid
+2019,12,Goods & Other Vehicles,Petrol,5109,Non-Hybrid
+2019,12,Goods & Other Vehicles,Diesel,135773,Non-Hybrid
+2019,12,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2019,12,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2019,12,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2019,12,Goods & Other Vehicles,Electric,71,Hybrid
+2019,12,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2019,12,Buses,Petrol,18,Non-Hybrid
+2019,12,Buses,Diesel,19248,Non-Hybrid
+2019,12,Buses,Petrol-CNG,0,Non-Hybrid
+2019,12,Buses,CNG,0,Non-Hybrid
+2019,12,Buses,Electric,10,Hybrid
+2019,12,Buses,Diesel-Electric,50,Hybrid
+2020,1,Cars,Petrol,574945,Non-Hybrid
+2020,1,Cars,Diesel,18050,Non-Hybrid
+2020,1,Cars,Petrol-Electric,36395,Hybrid
+2020,1,Cars,Petrol-Electric (Plug-In),489,Hybrid
+2020,1,Cars,Petrol-CNG,244,Non-Hybrid
+2020,1,Cars,CNG,0,Non-Hybrid
+2020,1,Cars,Electric,1125,Hybrid
+2020,1,Cars,Diesel-Electric,18,Hybrid
+2020,1,Taxis,Petrol,24,Non-Hybrid
+2020,1,Taxis,Diesel,9615,Non-Hybrid
+2020,1,Taxis,Petrol-Electric,8756,Hybrid
+2020,1,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,1,Taxis,CNG,0,Non-Hybrid
+2020,1,Taxis,Electric,133,Hybrid
+2020,1,Motor-cycles,Petrol,140097,Non-Hybrid
+2020,1,Motor-cycles,Electric,2,Hybrid
+2020,1,Goods & Other Vehicles,Petrol,5142,Non-Hybrid
+2020,1,Goods & Other Vehicles,Diesel,135745,Non-Hybrid
+2020,1,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,1,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,1,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,1,Goods & Other Vehicles,Electric,80,Hybrid
+2020,1,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,1,Buses,Petrol,18,Non-Hybrid
+2020,1,Buses,Diesel,19270,Non-Hybrid
+2020,1,Buses,Petrol-CNG,0,Non-Hybrid
+2020,1,Buses,CNG,0,Non-Hybrid
+2020,1,Buses,Electric,24,Hybrid
+2020,1,Buses,Diesel-Electric,50,Hybrid
+2020,2,Cars,Petrol,575118,Non-Hybrid
+2020,2,Cars,Diesel,18065,Non-Hybrid
+2020,2,Cars,Petrol-Electric,37046,Hybrid
+2020,2,Cars,Petrol-Electric (Plug-In),494,Hybrid
+2020,2,Cars,Petrol-CNG,241,Non-Hybrid
+2020,2,Cars,CNG,0,Non-Hybrid
+2020,2,Cars,Electric,1131,Hybrid
+2020,2,Cars,Diesel-Electric,18,Hybrid
+2020,2,Taxis,Petrol,24,Non-Hybrid
+2020,2,Taxis,Diesel,9354,Non-Hybrid
+2020,2,Taxis,Petrol-Electric,8914,Hybrid
+2020,2,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,2,Taxis,CNG,0,Non-Hybrid
+2020,2,Taxis,Electric,133,Hybrid
+2020,2,Motor-cycles,Petrol,140064,Non-Hybrid
+2020,2,Motor-cycles,Electric,2,Hybrid
+2020,2,Goods & Other Vehicles,Petrol,5169,Non-Hybrid
+2020,2,Goods & Other Vehicles,Diesel,135549,Non-Hybrid
+2020,2,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,2,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,2,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,2,Goods & Other Vehicles,Electric,83,Hybrid
+2020,2,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,2,Buses,Petrol,17,Non-Hybrid
+2020,2,Buses,Diesel,19250,Non-Hybrid
+2020,2,Buses,Petrol-CNG,0,Non-Hybrid
+2020,2,Buses,CNG,0,Non-Hybrid
+2020,2,Buses,Electric,25,Hybrid
+2020,2,Buses,Diesel-Electric,50,Hybrid
+2020,3,Cars,Petrol,574652,Non-Hybrid
+2020,3,Cars,Diesel,18115,Non-Hybrid
+2020,3,Cars,Petrol-Electric,37752,Hybrid
+2020,3,Cars,Petrol-Electric (Plug-In),501,Hybrid
+2020,3,Cars,Petrol-CNG,236,Non-Hybrid
+2020,3,Cars,CNG,0,Non-Hybrid
+2020,3,Cars,Electric,1143,Hybrid
+2020,3,Cars,Diesel-Electric,18,Hybrid
+2020,3,Taxis,Petrol,24,Non-Hybrid
+2020,3,Taxis,Diesel,8845,Non-Hybrid
+2020,3,Taxis,Petrol-Electric,8975,Hybrid
+2020,3,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,3,Taxis,CNG,0,Non-Hybrid
+2020,3,Taxis,Electric,133,Hybrid
+2020,3,Motor-cycles,Petrol,140145,Non-Hybrid
+2020,3,Motor-cycles,Electric,2,Hybrid
+2020,3,Goods & Other Vehicles,Petrol,5211,Non-Hybrid
+2020,3,Goods & Other Vehicles,Diesel,135140,Non-Hybrid
+2020,3,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,3,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,3,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,3,Goods & Other Vehicles,Electric,87,Hybrid
+2020,3,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,3,Buses,Petrol,16,Non-Hybrid
+2020,3,Buses,Diesel,19185,Non-Hybrid
+2020,3,Buses,Petrol-CNG,0,Non-Hybrid
+2020,3,Buses,CNG,0,Non-Hybrid
+2020,3,Buses,Electric,25,Hybrid
+2020,3,Buses,Diesel-Electric,50,Hybrid
+2020,4,Cars,Petrol,572226,Non-Hybrid
+2020,4,Cars,Diesel,18090,Non-Hybrid
+2020,4,Cars,Petrol-Electric,37780,Hybrid
+2020,4,Cars,Petrol-Electric (Plug-In),501,Hybrid
+2020,4,Cars,Petrol-CNG,235,Non-Hybrid
+2020,4,Cars,CNG,0,Non-Hybrid
+2020,4,Cars,Electric,1146,Hybrid
+2020,4,Cars,Diesel-Electric,18,Hybrid
+2020,4,Taxis,Petrol,24,Non-Hybrid
+2020,4,Taxis,Diesel,8254,Non-Hybrid
+2020,4,Taxis,Petrol-Electric,9003,Hybrid
+2020,4,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,4,Taxis,CNG,0,Non-Hybrid
+2020,4,Taxis,Electric,133,Hybrid
+2020,4,Motor-cycles,Petrol,140161,Non-Hybrid
+2020,4,Motor-cycles,Electric,2,Hybrid
+2020,4,Goods & Other Vehicles,Petrol,5182,Non-Hybrid
+2020,4,Goods & Other Vehicles,Diesel,134786,Non-Hybrid
+2020,4,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,4,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,4,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,4,Goods & Other Vehicles,Electric,90,Hybrid
+2020,4,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,4,Buses,Petrol,15,Non-Hybrid
+2020,4,Buses,Diesel,19182,Non-Hybrid
+2020,4,Buses,Petrol-CNG,0,Non-Hybrid
+2020,4,Buses,CNG,0,Non-Hybrid
+2020,4,Buses,Electric,25,Hybrid
+2020,4,Buses,Diesel-Electric,50,Hybrid
+2020,5,Cars,Petrol,570294,Non-Hybrid
+2020,5,Cars,Diesel,18075,Non-Hybrid
+2020,5,Cars,Petrol-Electric,37737,Hybrid
+2020,5,Cars,Petrol-Electric (Plug-In),501,Hybrid
+2020,5,Cars,Petrol-CNG,235,Non-Hybrid
+2020,5,Cars,CNG,0,Non-Hybrid
+2020,5,Cars,Electric,1147,Hybrid
+2020,5,Cars,Diesel-Electric,18,Hybrid
+2020,5,Taxis,Petrol,24,Non-Hybrid
+2020,5,Taxis,Diesel,7950,Non-Hybrid
+2020,5,Taxis,Petrol-Electric,8271,Hybrid
+2020,5,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,5,Taxis,CNG,0,Non-Hybrid
+2020,5,Taxis,Electric,133,Hybrid
+2020,5,Motor-cycles,Petrol,140224,Non-Hybrid
+2020,5,Motor-cycles,Electric,2,Hybrid
+2020,5,Goods & Other Vehicles,Petrol,5170,Non-Hybrid
+2020,5,Goods & Other Vehicles,Diesel,134626,Non-Hybrid
+2020,5,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,5,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,5,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,5,Goods & Other Vehicles,Electric,90,Hybrid
+2020,5,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,5,Buses,Petrol,14,Non-Hybrid
+2020,5,Buses,Diesel,19164,Non-Hybrid
+2020,5,Buses,Petrol-CNG,0,Non-Hybrid
+2020,5,Buses,CNG,0,Non-Hybrid
+2020,5,Buses,Electric,25,Hybrid
+2020,5,Buses,Diesel-Electric,50,Hybrid
+2020,6,Cars,Petrol,567971,Non-Hybrid
+2020,6,Cars,Diesel,18050,Non-Hybrid
+2020,6,Cars,Petrol-Electric,37789,Hybrid
+2020,6,Cars,Petrol-Electric (Plug-In),501,Hybrid
+2020,6,Cars,Petrol-CNG,231,Non-Hybrid
+2020,6,Cars,CNG,0,Non-Hybrid
+2020,6,Cars,Electric,1151,Hybrid
+2020,6,Cars,Diesel-Electric,18,Hybrid
+2020,6,Taxis,Petrol,23,Non-Hybrid
+2020,6,Taxis,Diesel,7839,Non-Hybrid
+2020,6,Taxis,Petrol-Electric,8282,Hybrid
+2020,6,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,6,Taxis,CNG,0,Non-Hybrid
+2020,6,Taxis,Electric,133,Hybrid
+2020,6,Motor-cycles,Petrol,139904,Non-Hybrid
+2020,6,Motor-cycles,Electric,2,Hybrid
+2020,6,Goods & Other Vehicles,Petrol,5197,Non-Hybrid
+2020,6,Goods & Other Vehicles,Diesel,134299,Non-Hybrid
+2020,6,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,6,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,6,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,6,Goods & Other Vehicles,Electric,90,Hybrid
+2020,6,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,6,Buses,Petrol,14,Non-Hybrid
+2020,6,Buses,Diesel,19096,Non-Hybrid
+2020,6,Buses,Petrol-CNG,0,Non-Hybrid
+2020,6,Buses,CNG,0,Non-Hybrid
+2020,6,Buses,Electric,34,Hybrid
+2020,6,Buses,Diesel-Electric,50,Hybrid
+2020,7,Cars,Petrol,568757,Non-Hybrid
+2020,7,Cars,Diesel,18024,Non-Hybrid
+2020,7,Cars,Petrol-Electric,38379,Hybrid
+2020,7,Cars,Petrol-Electric (Plug-In),511,Hybrid
+2020,7,Cars,Petrol-CNG,223,Non-Hybrid
+2020,7,Cars,CNG,0,Non-Hybrid
+2020,7,Cars,Electric,1161,Hybrid
+2020,7,Cars,Diesel-Electric,18,Hybrid
+2020,7,Taxis,Petrol,23,Non-Hybrid
+2020,7,Taxis,Diesel,7640,Non-Hybrid
+2020,7,Taxis,Petrol-Electric,8290,Hybrid
+2020,7,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,7,Taxis,CNG,0,Non-Hybrid
+2020,7,Taxis,Electric,133,Hybrid
+2020,7,Motor-cycles,Petrol,140097,Non-Hybrid
+2020,7,Motor-cycles,Electric,2,Hybrid
+2020,7,Goods & Other Vehicles,Petrol,5324,Non-Hybrid
+2020,7,Goods & Other Vehicles,Diesel,134203,Non-Hybrid
+2020,7,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,7,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,7,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,7,Goods & Other Vehicles,Electric,90,Hybrid
+2020,7,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,7,Buses,Petrol,14,Non-Hybrid
+2020,7,Buses,Diesel,19032,Non-Hybrid
+2020,7,Buses,Petrol-CNG,0,Non-Hybrid
+2020,7,Buses,CNG,0,Non-Hybrid
+2020,7,Buses,Electric,35,Hybrid
+2020,7,Buses,Diesel-Electric,50,Hybrid
+2020,8,Cars,Petrol,569692,Non-Hybrid
+2020,8,Cars,Diesel,18036,Non-Hybrid
+2020,8,Cars,Petrol-Electric,39042,Hybrid
+2020,8,Cars,Petrol-Electric (Plug-In),517,Hybrid
+2020,8,Cars,Petrol-CNG,220,Non-Hybrid
+2020,8,Cars,CNG,0,Non-Hybrid
+2020,8,Cars,Electric,1180,Hybrid
+2020,8,Cars,Diesel-Electric,18,Hybrid
+2020,8,Taxis,Petrol,22,Non-Hybrid
+2020,8,Taxis,Diesel,7613,Non-Hybrid
+2020,8,Taxis,Petrol-Electric,8496,Hybrid
+2020,8,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,8,Taxis,CNG,0,Non-Hybrid
+2020,8,Taxis,Electric,133,Hybrid
+2020,8,Motor-cycles,Petrol,140158,Non-Hybrid
+2020,8,Motor-cycles,Electric,1,Hybrid
+2020,8,Goods & Other Vehicles,Petrol,5379,Non-Hybrid
+2020,8,Goods & Other Vehicles,Diesel,134204,Non-Hybrid
+2020,8,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,8,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,8,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,8,Goods & Other Vehicles,Electric,90,Hybrid
+2020,8,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,8,Buses,Petrol,14,Non-Hybrid
+2020,8,Buses,Diesel,18971,Non-Hybrid
+2020,8,Buses,Petrol-CNG,0,Non-Hybrid
+2020,8,Buses,CNG,0,Non-Hybrid
+2020,8,Buses,Electric,35,Hybrid
+2020,8,Buses,Diesel-Electric,50,Hybrid
+2020,9,Cars,Petrol,570275,Non-Hybrid
+2020,9,Cars,Diesel,18053,Non-Hybrid
+2020,9,Cars,Petrol-Electric,39743,Hybrid
+2020,9,Cars,Petrol-Electric (Plug-In),525,Hybrid
+2020,9,Cars,Petrol-CNG,214,Non-Hybrid
+2020,9,Cars,CNG,0,Non-Hybrid
+2020,9,Cars,Electric,1190,Hybrid
+2020,9,Cars,Diesel-Electric,18,Hybrid
+2020,9,Taxis,Petrol,21,Non-Hybrid
+2020,9,Taxis,Diesel,7302,Non-Hybrid
+2020,9,Taxis,Petrol-Electric,8654,Hybrid
+2020,9,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,9,Taxis,CNG,0,Non-Hybrid
+2020,9,Taxis,Electric,133,Hybrid
+2020,9,Motor-cycles,Petrol,140313,Non-Hybrid
+2020,9,Motor-cycles,Electric,1,Hybrid
+2020,9,Goods & Other Vehicles,Petrol,5519,Non-Hybrid
+2020,9,Goods & Other Vehicles,Diesel,134414,Non-Hybrid
+2020,9,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,9,Goods & Other Vehicles,Petrol-CNG,1,Non-Hybrid
+2020,9,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,9,Goods & Other Vehicles,Electric,93,Hybrid
+2020,9,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,9,Buses,Petrol,14,Non-Hybrid
+2020,9,Buses,Diesel,18909,Non-Hybrid
+2020,9,Buses,Petrol-CNG,0,Non-Hybrid
+2020,9,Buses,CNG,0,Non-Hybrid
+2020,9,Buses,Electric,35,Hybrid
+2020,9,Buses,Diesel-Electric,50,Hybrid
+2020,10,Cars,Petrol,571020,Non-Hybrid
+2020,10,Cars,Diesel,18062,Non-Hybrid
+2020,10,Cars,Petrol-Electric,40530,Hybrid
+2020,10,Cars,Petrol-Electric (Plug-In),537,Hybrid
+2020,10,Cars,Petrol-CNG,210,Non-Hybrid
+2020,10,Cars,CNG,0,Non-Hybrid
+2020,10,Cars,Electric,1203,Hybrid
+2020,10,Cars,Diesel-Electric,18,Hybrid
+2020,10,Taxis,Petrol,21,Non-Hybrid
+2020,10,Taxis,Diesel,7042,Non-Hybrid
+2020,10,Taxis,Petrol-Electric,8828,Hybrid
+2020,10,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,10,Taxis,CNG,0,Non-Hybrid
+2020,10,Taxis,Electric,121,Hybrid
+2020,10,Motor-cycles,Petrol,140436,Non-Hybrid
+2020,10,Motor-cycles,Electric,1,Hybrid
+2020,10,Goods & Other Vehicles,Petrol,5655,Non-Hybrid
+2020,10,Goods & Other Vehicles,Diesel,134499,Non-Hybrid
+2020,10,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,10,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2020,10,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,10,Goods & Other Vehicles,Electric,93,Hybrid
+2020,10,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,10,Buses,Petrol,14,Non-Hybrid
+2020,10,Buses,Diesel,18878,Non-Hybrid
+2020,10,Buses,Petrol-CNG,0,Non-Hybrid
+2020,10,Buses,CNG,0,Non-Hybrid
+2020,10,Buses,Electric,45,Hybrid
+2020,10,Buses,Diesel-Electric,50,Hybrid
+2020,11,Cars,Petrol,571847,Non-Hybrid
+2020,11,Cars,Diesel,18073,Non-Hybrid
+2020,11,Cars,Petrol-Electric,41245,Hybrid
+2020,11,Cars,Petrol-Electric (Plug-In),545,Hybrid
+2020,11,Cars,Petrol-CNG,205,Non-Hybrid
+2020,11,Cars,CNG,0,Non-Hybrid
+2020,11,Cars,Electric,1215,Hybrid
+2020,11,Cars,Diesel-Electric,18,Hybrid
+2020,11,Taxis,Petrol,21,Non-Hybrid
+2020,11,Taxis,Diesel,6644,Non-Hybrid
+2020,11,Taxis,Petrol-Electric,9015,Hybrid
+2020,11,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,11,Taxis,CNG,0,Non-Hybrid
+2020,11,Taxis,Electric,92,Hybrid
+2020,11,Motor-cycles,Petrol,140711,Non-Hybrid
+2020,11,Motor-cycles,Electric,1,Hybrid
+2020,11,Goods & Other Vehicles,Petrol,5726,Non-Hybrid
+2020,11,Goods & Other Vehicles,Diesel,134635,Non-Hybrid
+2020,11,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,11,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2020,11,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,11,Goods & Other Vehicles,Electric,96,Hybrid
+2020,11,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,11,Buses,Petrol,14,Non-Hybrid
+2020,11,Buses,Diesel,18840,Non-Hybrid
+2020,11,Buses,Petrol-CNG,0,Non-Hybrid
+2020,11,Buses,CNG,0,Non-Hybrid
+2020,11,Buses,Electric,50,Hybrid
+2020,11,Buses,Diesel-Electric,50,Hybrid
+2020,12,Cars,Petrol,572132,Non-Hybrid
+2020,12,Cars,Diesel,18076,Non-Hybrid
+2020,12,Cars,Petrol-Electric,41845,Hybrid
+2020,12,Cars,Petrol-Electric (Plug-In),552,Hybrid
+2020,12,Cars,Petrol-CNG,202,Non-Hybrid
+2020,12,Cars,CNG,0,Non-Hybrid
+2020,12,Cars,Electric,1217,Hybrid
+2020,12,Cars,Diesel-Electric,18,Hybrid
+2020,12,Taxis,Petrol,21,Non-Hybrid
+2020,12,Taxis,Diesel,6508,Non-Hybrid
+2020,12,Taxis,Petrol-Electric,9117,Hybrid
+2020,12,Taxis,Petrol-CNG,0,Non-Hybrid
+2020,12,Taxis,CNG,0,Non-Hybrid
+2020,12,Taxis,Electric,32,Hybrid
+2020,12,Motor-cycles,Petrol,140781,Non-Hybrid
+2020,12,Motor-cycles,Electric,1,Hybrid
+2020,12,Goods & Other Vehicles,Petrol,5816,Non-Hybrid
+2020,12,Goods & Other Vehicles,Diesel,134860,Non-Hybrid
+2020,12,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2020,12,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2020,12,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2020,12,Goods & Other Vehicles,Electric,97,Hybrid
+2020,12,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2020,12,Buses,Petrol,14,Non-Hybrid
+2020,12,Buses,Diesel,18798,Non-Hybrid
+2020,12,Buses,Petrol-CNG,0,Non-Hybrid
+2020,12,Buses,CNG,0,Non-Hybrid
+2020,12,Buses,Electric,50,Hybrid
+2020,12,Buses,Diesel-Electric,50,Hybrid
+2021,1,Cars,Petrol,573046,Non-Hybrid
+2021,1,Cars,Diesel,18081,Non-Hybrid
+2021,1,Cars,Petrol-Electric,43304,Hybrid
+2021,1,Cars,Petrol-Electric (Plug-In),561,Hybrid
+2021,1,Cars,Petrol-CNG,199,Non-Hybrid
+2021,1,Cars,CNG,0,Non-Hybrid
+2021,1,Cars,Electric,1274,Hybrid
+2021,1,Cars,Diesel-Electric,18,Hybrid
+2021,1,Taxis,Petrol,21,Non-Hybrid
+2021,1,Taxis,Diesel,6440,Non-Hybrid
+2021,1,Taxis,Petrol-Electric,9423,Hybrid
+2021,1,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,1,Taxis,CNG,0,Non-Hybrid
+2021,1,Taxis,Electric,4,Hybrid
+2021,1,Motor-cycles,Petrol,140743,Non-Hybrid
+2021,1,Motor-cycles,Electric,2,Hybrid
+2021,1,Goods & Other Vehicles,Petrol,5898,Non-Hybrid
+2021,1,Goods & Other Vehicles,Diesel,135324,Non-Hybrid
+2021,1,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,1,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,1,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2021,1,Goods & Other Vehicles,Electric,103,Hybrid
+2021,1,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,1,Buses,Petrol,12,Non-Hybrid
+2021,1,Buses,Diesel,18776,Non-Hybrid
+2021,1,Buses,Petrol-CNG,0,Non-Hybrid
+2021,1,Buses,CNG,0,Non-Hybrid
+2021,1,Buses,Electric,51,Hybrid
+2021,1,Buses,Diesel-Electric,50,Hybrid
+2021,2,Cars,Petrol,573272,Non-Hybrid
+2021,2,Cars,Diesel,18109,Non-Hybrid
+2021,2,Cars,Petrol-Electric,44180,Hybrid
+2021,2,Cars,Petrol-Electric (Plug-In),570,Hybrid
+2021,2,Cars,Petrol-CNG,198,Non-Hybrid
+2021,2,Cars,CNG,0,Non-Hybrid
+2021,2,Cars,Electric,1307,Hybrid
+2021,2,Cars,Diesel-Electric,18,Hybrid
+2021,2,Taxis,Petrol,21,Non-Hybrid
+2021,2,Taxis,Diesel,6312,Non-Hybrid
+2021,2,Taxis,Petrol-Electric,9528,Hybrid
+2021,2,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,2,Taxis,CNG,0,Non-Hybrid
+2021,2,Taxis,Electric,4,Hybrid
+2021,2,Motor-cycles,Petrol,140698,Non-Hybrid
+2021,2,Motor-cycles,Electric,2,Hybrid
+2021,2,Goods & Other Vehicles,Petrol,5918,Non-Hybrid
+2021,2,Goods & Other Vehicles,Diesel,135561,Non-Hybrid
+2021,2,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,2,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,2,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2021,2,Goods & Other Vehicles,Electric,103,Hybrid
+2021,2,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,2,Buses,Petrol,12,Non-Hybrid
+2021,2,Buses,Diesel,18749,Non-Hybrid
+2021,2,Buses,Petrol-CNG,0,Non-Hybrid
+2021,2,Buses,CNG,0,Non-Hybrid
+2021,2,Buses,Electric,51,Hybrid
+2021,2,Buses,Diesel-Electric,50,Hybrid
+2021,3,Cars,Petrol,572882,Non-Hybrid
+2021,3,Cars,Diesel,18110,Non-Hybrid
+2021,3,Cars,Petrol-Electric,45360,Hybrid
+2021,3,Cars,Petrol-Electric (Plug-In),591,Hybrid
+2021,3,Cars,Petrol-CNG,197,Non-Hybrid
+2021,3,Cars,CNG,0,Non-Hybrid
+2021,3,Cars,Electric,1351,Hybrid
+2021,3,Cars,Diesel-Electric,18,Hybrid
+2021,3,Taxis,Petrol,21,Non-Hybrid
+2021,3,Taxis,Diesel,6139,Non-Hybrid
+2021,3,Taxis,Petrol-Electric,9574,Hybrid
+2021,3,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,3,Taxis,CNG,0,Non-Hybrid
+2021,3,Taxis,Electric,4,Hybrid
+2021,3,Motor-cycles,Petrol,140693,Non-Hybrid
+2021,3,Motor-cycles,Electric,2,Hybrid
+2021,3,Goods & Other Vehicles,Petrol,5932,Non-Hybrid
+2021,3,Goods & Other Vehicles,Diesel,136534,Non-Hybrid
+2021,3,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,3,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,3,Goods & Other Vehicles,CNG,2,Non-Hybrid
+2021,3,Goods & Other Vehicles,Electric,104,Hybrid
+2021,3,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,3,Buses,Petrol,11,Non-Hybrid
+2021,3,Buses,Diesel,18779,Non-Hybrid
+2021,3,Buses,Petrol-CNG,0,Non-Hybrid
+2021,3,Buses,CNG,0,Non-Hybrid
+2021,3,Buses,Electric,51,Hybrid
+2021,3,Buses,Diesel-Electric,50,Hybrid
+2021,4,Cars,Petrol,572399,Non-Hybrid
+2021,4,Cars,Diesel,18133,Non-Hybrid
+2021,4,Cars,Petrol-Electric,46522,Hybrid
+2021,4,Cars,Petrol-Electric (Plug-In),606,Hybrid
+2021,4,Cars,Petrol-CNG,194,Non-Hybrid
+2021,4,Cars,CNG,0,Non-Hybrid
+2021,4,Cars,Electric,1415,Hybrid
+2021,4,Cars,Diesel-Electric,18,Hybrid
+2021,4,Taxis,Petrol,21,Non-Hybrid
+2021,4,Taxis,Diesel,6099,Non-Hybrid
+2021,4,Taxis,Petrol-Electric,9675,Hybrid
+2021,4,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,4,Taxis,CNG,0,Non-Hybrid
+2021,4,Taxis,Electric,4,Hybrid
+2021,4,Motor-cycles,Petrol,140889,Non-Hybrid
+2021,4,Motor-cycles,Electric,2,Hybrid
+2021,4,Goods & Other Vehicles,Petrol,6522,Non-Hybrid
+2021,4,Goods & Other Vehicles,Diesel,136148,Non-Hybrid
+2021,4,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,4,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,4,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,4,Goods & Other Vehicles,Electric,130,Hybrid
+2021,4,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,4,Buses,Petrol,10,Non-Hybrid
+2021,4,Buses,Diesel,18734,Non-Hybrid
+2021,4,Buses,Petrol-CNG,0,Non-Hybrid
+2021,4,Buses,CNG,0,Non-Hybrid
+2021,4,Buses,Electric,51,Hybrid
+2021,4,Buses,Diesel-Electric,50,Hybrid
+2021,5,Cars,Petrol,571365,Non-Hybrid
+2021,5,Cars,Diesel,18139,Non-Hybrid
+2021,5,Cars,Petrol-Electric,47560,Hybrid
+2021,5,Cars,Petrol-Electric (Plug-In),616,Hybrid
+2021,5,Cars,Petrol-CNG,190,Non-Hybrid
+2021,5,Cars,CNG,0,Non-Hybrid
+2021,5,Cars,Electric,1485,Hybrid
+2021,5,Cars,Diesel-Electric,18,Hybrid
+2021,5,Taxis,Petrol,21,Non-Hybrid
+2021,5,Taxis,Diesel,5948,Non-Hybrid
+2021,5,Taxis,Petrol-Electric,9688,Hybrid
+2021,5,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,5,Taxis,CNG,0,Non-Hybrid
+2021,5,Taxis,Electric,4,Hybrid
+2021,5,Motor-cycles,Petrol,140924,Non-Hybrid
+2021,5,Motor-cycles,Electric,2,Hybrid
+2021,5,Goods & Other Vehicles,Petrol,6854,Non-Hybrid
+2021,5,Goods & Other Vehicles,Diesel,135854,Non-Hybrid
+2021,5,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,5,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,5,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,5,Goods & Other Vehicles,Electric,154,Hybrid
+2021,5,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,5,Buses,Petrol,10,Non-Hybrid
+2021,5,Buses,Diesel,18677,Non-Hybrid
+2021,5,Buses,Petrol-CNG,0,Non-Hybrid
+2021,5,Buses,CNG,0,Non-Hybrid
+2021,5,Buses,Electric,51,Hybrid
+2021,5,Buses,Diesel-Electric,50,Hybrid
+2021,6,Cars,Petrol,570952,Non-Hybrid
+2021,6,Cars,Diesel,18156,Non-Hybrid
+2021,6,Cars,Petrol-Electric,48758,Hybrid
+2021,6,Cars,Petrol-Electric (Plug-In),625,Hybrid
+2021,6,Cars,Petrol-CNG,188,Non-Hybrid
+2021,6,Cars,CNG,0,Non-Hybrid
+2021,6,Cars,Electric,1549,Hybrid
+2021,6,Cars,Diesel-Electric,19,Hybrid
+2021,6,Taxis,Petrol,20,Non-Hybrid
+2021,6,Taxis,Diesel,5824,Non-Hybrid
+2021,6,Taxis,Petrol-Electric,9688,Hybrid
+2021,6,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,6,Taxis,CNG,0,Non-Hybrid
+2021,6,Taxis,Electric,4,Hybrid
+2021,6,Motor-cycles,Petrol,140919,Non-Hybrid
+2021,6,Motor-cycles,Electric,3,Hybrid
+2021,6,Goods & Other Vehicles,Petrol,7278,Non-Hybrid
+2021,6,Goods & Other Vehicles,Diesel,135527,Non-Hybrid
+2021,6,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,6,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,6,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,6,Goods & Other Vehicles,Electric,198,Hybrid
+2021,6,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,6,Buses,Petrol,11,Non-Hybrid
+2021,6,Buses,Diesel,18596,Non-Hybrid
+2021,6,Buses,Petrol-CNG,0,Non-Hybrid
+2021,6,Buses,CNG,0,Non-Hybrid
+2021,6,Buses,Electric,51,Hybrid
+2021,6,Buses,Diesel-Electric,50,Hybrid
+2021,7,Cars,Petrol,570542,Non-Hybrid
+2021,7,Cars,Diesel,18168,Non-Hybrid
+2021,7,Cars,Petrol-Electric,49886,Hybrid
+2021,7,Cars,Petrol-Electric (Plug-In),634,Hybrid
+2021,7,Cars,Petrol-CNG,182,Non-Hybrid
+2021,7,Cars,CNG,0,Non-Hybrid
+2021,7,Cars,Electric,1643,Hybrid
+2021,7,Cars,Diesel-Electric,19,Hybrid
+2021,7,Taxis,Petrol,19,Non-Hybrid
+2021,7,Taxis,Diesel,5757,Non-Hybrid
+2021,7,Taxis,Petrol-Electric,9717,Hybrid
+2021,7,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,7,Taxis,CNG,0,Non-Hybrid
+2021,7,Taxis,Electric,4,Hybrid
+2021,7,Motor-cycles,Petrol,141246,Non-Hybrid
+2021,7,Motor-cycles,Electric,5,Hybrid
+2021,7,Goods & Other Vehicles,Petrol,7624,Non-Hybrid
+2021,7,Goods & Other Vehicles,Diesel,135365,Non-Hybrid
+2021,7,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,7,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,7,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,7,Goods & Other Vehicles,Electric,234,Hybrid
+2021,7,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,7,Buses,Petrol,17,Non-Hybrid
+2021,7,Buses,Diesel,18525,Non-Hybrid
+2021,7,Buses,Petrol-CNG,0,Non-Hybrid
+2021,7,Buses,CNG,0,Non-Hybrid
+2021,7,Buses,Electric,64,Hybrid
+2021,7,Buses,Diesel-Electric,50,Hybrid
+2021,8,Cars,Petrol,570168,Non-Hybrid
+2021,8,Cars,Diesel,18164,Non-Hybrid
+2021,8,Cars,Petrol-Electric,50952,Hybrid
+2021,8,Cars,Petrol-Electric (Plug-In),641,Hybrid
+2021,8,Cars,Petrol-CNG,178,Non-Hybrid
+2021,8,Cars,CNG,0,Non-Hybrid
+2021,8,Cars,Electric,1855,Hybrid
+2021,8,Cars,Diesel-Electric,19,Hybrid
+2021,8,Taxis,Petrol,19,Non-Hybrid
+2021,8,Taxis,Diesel,5640,Non-Hybrid
+2021,8,Taxis,Petrol-Electric,9794,Hybrid
+2021,8,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,8,Taxis,CNG,0,Non-Hybrid
+2021,8,Taxis,Electric,19,Hybrid
+2021,8,Motor-cycles,Petrol,141314,Non-Hybrid
+2021,8,Motor-cycles,Electric,5,Hybrid
+2021,8,Goods & Other Vehicles,Petrol,7976,Non-Hybrid
+2021,8,Goods & Other Vehicles,Diesel,135127,Non-Hybrid
+2021,8,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,8,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,8,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,8,Goods & Other Vehicles,Electric,260,Hybrid
+2021,8,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,8,Buses,Petrol,20,Non-Hybrid
+2021,8,Buses,Diesel,18489,Non-Hybrid
+2021,8,Buses,Petrol-CNG,0,Non-Hybrid
+2021,8,Buses,CNG,0,Non-Hybrid
+2021,8,Buses,Electric,73,Hybrid
+2021,8,Buses,Diesel-Electric,50,Hybrid
+2021,9,Cars,Petrol,570186,Non-Hybrid
+2021,9,Cars,Diesel,18138,Non-Hybrid
+2021,9,Cars,Petrol-Electric,52162,Hybrid
+2021,9,Cars,Petrol-Electric (Plug-In),654,Hybrid
+2021,9,Cars,Petrol-CNG,175,Non-Hybrid
+2021,9,Cars,CNG,0,Non-Hybrid
+2021,9,Cars,Electric,2243,Hybrid
+2021,9,Cars,Diesel-Electric,20,Hybrid
+2021,9,Taxis,Petrol,18,Non-Hybrid
+2021,9,Taxis,Diesel,5511,Non-Hybrid
+2021,9,Taxis,Petrol-Electric,9826,Hybrid
+2021,9,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,9,Taxis,CNG,0,Non-Hybrid
+2021,9,Taxis,Electric,79,Hybrid
+2021,9,Motor-cycles,Petrol,141414,Non-Hybrid
+2021,9,Motor-cycles,Electric,5,Hybrid
+2021,9,Goods & Other Vehicles,Petrol,8323,Non-Hybrid
+2021,9,Goods & Other Vehicles,Diesel,134918,Non-Hybrid
+2021,9,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,9,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,9,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,9,Goods & Other Vehicles,Electric,295,Hybrid
+2021,9,Goods & Other Vehicles,Diesel-Electric,7,Hybrid
+2021,9,Buses,Petrol,27,Non-Hybrid
+2021,9,Buses,Diesel,18455,Non-Hybrid
+2021,9,Buses,Petrol-CNG,0,Non-Hybrid
+2021,9,Buses,CNG,0,Non-Hybrid
+2021,9,Buses,Electric,74,Hybrid
+2021,9,Buses,Diesel-Electric,50,Hybrid
+2021,10,Cars,Petrol,569513,Non-Hybrid
+2021,10,Cars,Diesel,18117,Non-Hybrid
+2021,10,Cars,Petrol-Electric,53149,Hybrid
+2021,10,Cars,Petrol-Electric (Plug-In),668,Hybrid
+2021,10,Cars,Petrol-CNG,171,Non-Hybrid
+2021,10,Cars,CNG,0,Non-Hybrid
+2021,10,Cars,Electric,2309,Hybrid
+2021,10,Cars,Diesel-Electric,20,Hybrid
+2021,10,Taxis,Petrol,18,Non-Hybrid
+2021,10,Taxis,Diesel,5399,Non-Hybrid
+2021,10,Taxis,Petrol-Electric,9844,Hybrid
+2021,10,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,10,Taxis,CNG,0,Non-Hybrid
+2021,10,Taxis,Electric,119,Hybrid
+2021,10,Motor-cycles,Petrol,141446,Non-Hybrid
+2021,10,Motor-cycles,Electric,5,Hybrid
+2021,10,Goods & Other Vehicles,Petrol,8647,Non-Hybrid
+2021,10,Goods & Other Vehicles,Diesel,134723,Non-Hybrid
+2021,10,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,10,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,10,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,10,Goods & Other Vehicles,Electric,320,Hybrid
+2021,10,Goods & Other Vehicles,Diesel-Electric,11,Hybrid
+2021,10,Buses,Petrol,28,Non-Hybrid
+2021,10,Buses,Diesel,18432,Non-Hybrid
+2021,10,Buses,Petrol-CNG,0,Non-Hybrid
+2021,10,Buses,CNG,0,Non-Hybrid
+2021,10,Buses,Electric,75,Hybrid
+2021,10,Buses,Diesel-Electric,50,Hybrid
+2021,11,Cars,Petrol,568883,Non-Hybrid
+2021,11,Cars,Diesel,18123,Non-Hybrid
+2021,11,Cars,Petrol-Electric,54017,Hybrid
+2021,11,Cars,Petrol-Electric (Plug-In),682,Hybrid
+2021,11,Cars,Petrol-CNG,166,Non-Hybrid
+2021,11,Cars,CNG,0,Non-Hybrid
+2021,11,Cars,Electric,2635,Hybrid
+2021,11,Cars,Diesel-Electric,20,Hybrid
+2021,11,Taxis,Petrol,16,Non-Hybrid
+2021,11,Taxis,Diesel,5137,Non-Hybrid
+2021,11,Taxis,Petrol-Electric,9706,Hybrid
+2021,11,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,11,Taxis,CNG,0,Non-Hybrid
+2021,11,Taxis,Electric,189,Hybrid
+2021,11,Motor-cycles,Petrol,141523,Non-Hybrid
+2021,11,Motor-cycles,Electric,5,Hybrid
+2021,11,Goods & Other Vehicles,Petrol,8840,Non-Hybrid
+2021,11,Goods & Other Vehicles,Diesel,134635,Non-Hybrid
+2021,11,Goods & Other Vehicles,Petrol-Electric,1,Hybrid
+2021,11,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,11,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,11,Goods & Other Vehicles,Electric,349,Hybrid
+2021,11,Goods & Other Vehicles,Diesel-Electric,11,Hybrid
+2021,11,Buses,Petrol,34,Non-Hybrid
+2021,11,Buses,Diesel,18395,Non-Hybrid
+2021,11,Buses,Petrol-CNG,0,Non-Hybrid
+2021,11,Buses,CNG,0,Non-Hybrid
+2021,11,Buses,Electric,75,Hybrid
+2021,11,Buses,Diesel-Electric,50,Hybrid
+2021,12,Cars,Petrol,568376,Non-Hybrid
+2021,12,Cars,Diesel,18136,Non-Hybrid
+2021,12,Cars,Petrol-Electric,54820,Hybrid
+2021,12,Cars,Petrol-Electric (Plug-In),692,Hybrid
+2021,12,Cars,Petrol-CNG,164,Non-Hybrid
+2021,12,Cars,CNG,0,Non-Hybrid
+2021,12,Cars,Electric,2942,Hybrid
+2021,12,Cars,Diesel-Electric,20,Hybrid
+2021,12,Taxis,Petrol,15,Non-Hybrid
+2021,12,Taxis,Diesel,4951,Non-Hybrid
+2021,12,Taxis,Petrol-Electric,9617,Hybrid
+2021,12,Taxis,Petrol-CNG,0,Non-Hybrid
+2021,12,Taxis,CNG,0,Non-Hybrid
+2021,12,Taxis,Electric,304,Hybrid
+2021,12,Motor-cycles,Petrol,141589,Non-Hybrid
+2021,12,Motor-cycles,Electric,5,Hybrid
+2021,12,Goods & Other Vehicles,Petrol,9096,Non-Hybrid
+2021,12,Goods & Other Vehicles,Diesel,134527,Non-Hybrid
+2021,12,Goods & Other Vehicles,Petrol-Electric,2,Hybrid
+2021,12,Goods & Other Vehicles,Petrol-CNG,0,Non-Hybrid
+2021,12,Goods & Other Vehicles,CNG,1,Non-Hybrid
+2021,12,Goods & Other Vehicles,Electric,387,Hybrid
+2021,12,Goods & Other Vehicles,Diesel-Electric,11,Hybrid
+2021,12,Buses,Petrol,42,Non-Hybrid
+2021,12,Buses,Diesel,18353,Non-Hybrid
+2021,12,Buses,Petrol-CNG,0,Non-Hybrid
+2021,12,Buses,CNG,0,Non-Hybrid
+2021,12,Buses,Electric,75,Hybrid
+2021,12,Buses,Diesel-Electric,50,Hybrid
